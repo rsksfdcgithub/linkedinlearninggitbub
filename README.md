@@ -11,3 +11,4 @@ Newbranch2
 =======
 NewBranch2..
 >>>>>>> newbranch2
+NB1
